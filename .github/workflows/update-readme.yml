@@ -1,0 +1,19 @@
+name: Atualizar README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Atualizar README
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Atualiza stats automaticamente" || echo "Sem alterações"
+          git push
