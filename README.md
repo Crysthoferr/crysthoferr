@@ -2,12 +2,14 @@
 
 **`Desenvovedor Web`** 
 
-Me chamo Crysthofer Luis Gonçalves, tenho 22 anos e sou natural do Paraná. Atualmente curso Técnico em Desenvolvimento de Sistemas no Senai PR.
+Olá! Me chamo Crysthofer Luis Gonçalves, tenho 22 anos e sou natural do Paraná.
+Atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAI PR.
 
-Sou entusiasta da área de tecnologia e venho desenvolvendo projetos pessoais para aprimorar minhas habilidades.
-No momento, estou focado em desenvolvimento Front-End, explorando HTML, CSS e JavaScript, além de me aprofundar em conceitos que envolvem experiência do usuário, interfaces funcionais e boas práticas de código.
+Utilizo este perfil para hospedar projetos pessoais, estudos e experimentos práticos voltados ao desenvolvimento Front-End.
 
-Este perfil reúne meus estudos, experimentos e projetos em constante evolução.
+Trabalho com HTML, CSS e JavaScript, explorando também bancos de dados relacionais e consumo de APIs, sempre buscando aplicar boas práticas de código, interfaces funcionais e conceitos de experiência do usuário (UX).
+
+Os repositórios aqui mostram meu processo de aprendizado e minha evolução como desenvolvedor.
 
 ---
 
